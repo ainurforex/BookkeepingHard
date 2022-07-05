@@ -427,7 +427,7 @@ public class EmployeeBook {
                 return i;
             }
         }
-        System.out.println("Запись в базе отсутствует.");
+        System.out.println("Запись в базе отсутствует!");
         return -1;
     }
 
@@ -438,7 +438,7 @@ public class EmployeeBook {
                 return i;
             }
         }
-        System.out.println("Запись в базе отсутствует.");
+        System.out.println("Запись в базе отсутствует!");
         return -1;
     }
 

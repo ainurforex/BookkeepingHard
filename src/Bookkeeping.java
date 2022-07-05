@@ -4,7 +4,7 @@ public class Bookkeeping {
 
         employeeBook.addEmployee("Петров", "Иван", "Сидорович", 1, 1000);
         employeeBook.addEmployee("Нечаев", "Петр", "Васильевич", 1, 2000);
-        employeeBook.addEmployee("Сидоров", "Василий", "Петрович", 1, 3000);
+        employeeBook.addEmployee("Сидоров", "Василий", "Петрович", 1, 5000);
         employeeBook.addEmployee("Бекетова", "Анна", "Васильевнв", 2, 50000);
         employeeBook.addEmployee("Зарев", "Михаил", "Артурович", 2, 8000);
         employeeBook.addEmployee("Пушкин", "Александр", "Сергеевич", 3, 70000);
